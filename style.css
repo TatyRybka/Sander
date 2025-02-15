@@ -1,0 +1,109 @@
+h1 {
+   color: aqua;
+   background-color:#7B68EE;
+   text-align: center;
+   font-family: lucida console;
+
+}
+
+main p {
+   background-color: #4682B4;
+   font-size: 25px;
+   color: lightcyan;
+   border-radius: 20px;
+   margin: 10px;
+   font-family: arial black;
+   padding: 10px;
+  
+
+}
+
+main img {
+   
+    width: 100px;
+    height: 100px;
+
+}
+
+
+h2 {
+   font-family: lucida console;
+    font-size: 25px;
+    background-color: #4682B4;
+   color: #87CEFA;
+   text-align: center;
+    border-radius: 20px;
+   margin: 10px;
+   padding: 10px;
+
+
+
+  
+   
+
+
+}
+
+
+header {
+    background-color: #7B68EE;
+    padding: 20px;
+}
+
+header a {
+    color: #2F4F4F;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+h1 img {
+    width: 250px;
+    height: 300px;
+    text-align:center;
+    
+}
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+    font-family: gabriola;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+    font-size: 35px;
+    border-radius: 20px; 
+}
+
+
+
+select {
+ margin: 10px;
+ padding: 10px;
+ border:2px solid #8fddf2;
+
+
+}
+
+
+
+select option {
+color: #8fddf2;;
+ border-radius: 20px; 
+
+
+
+}
+
+
+main img {
+margin: 70px;
+
+
+}
